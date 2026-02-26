@@ -1,2 +1,26 @@
-# AgriBot-Sprinkle
-AgriBot Sprinkle is a smart irrigation system that automatically monitors soil moisture, temperature, and humidity using sensors. It activates the water pump and rotating sprinkler when the soil is dry, ensuring efficient and water-saving farming.
+AgriBot Smart Dashboard
+A Python-based smart agriculture dashboard to monitor real-time sensor data and control an AgriBot via serial communication.
+
+Features
+•	 Live Temperature & Humidity Monitoring
+•	 Soil Moisture Display
+•	 Real-Time Sensor Graph
+•	 Robot Movement Controls (Forward, Backward, Left, Right, Stop)
+•	 Sprinkler ON/OFF Control
+•	 Arduino Serial Communication
+
+ Tech Stack
+•	Python
+•	Tkinter
+•	Matplotlib
+•	PySerial
+
+ Hardware Used
+•	Arduino Uno
+•	DHT11
+•	Soil Moisture Sensor
+•	L298N
+•	HC-05 (optional)
+
+ 
+
